@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, I'm Kothakota Charitharth, and I'm passionate about Data Science. On this page, you'll find a collection of my projects and contributions. Feel free to explore and connect with me!
+
 
 <!--
 **K-Charitharth/K-Charitharth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
